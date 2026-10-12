@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^5.3.0",
+    "mongoose": "^8.11.1",
+    "nodemon": "^3.1.14"
+  },
+  "scripts": {
+    "start": "nodemon Products.js"
+  },
+  "name": "server_kt",
+  "version": "1.0.0",
+  "main": "Products.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
